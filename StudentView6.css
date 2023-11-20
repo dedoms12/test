@@ -9,7 +9,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 1440px;
+  width: 1500px;
   height: 131px;
   object-fit: cover;
   opacity: 0.9;
@@ -154,6 +154,14 @@
   left: 32px;
   width: 131px;
   height: 90px;
+  object-fit: cover;
+}
+.user-icon6 {
+  position: absolute;
+  top: 39px;
+  left: 1245px;
+  width: 77px;
+  height: 54px;
   object-fit: cover;
 }
 .student-view6 {

@@ -1,33 +1,9 @@
-.password-textfield {
-  position: absolute;
-  top: 254px;
-  left: 965px;
-  width: 379.8px;
-  height: 68px;
-}
-.email-textfield,
-.email-textfield1 {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-.email-textfield {
-  height: 4.88%;
-  width: 26.39%;
-  top: 32.52%;
-  right: 10.56%;
-  bottom: 62.6%;
-  left: 63.06%;
-}
+
 .untitled-design-29 {
   position: absolute;
   top: 0;
   left: 0;
-  width: 1440px;
+  width: 1500px;
   height: 1024px;
   object-fit: cover;
 }
@@ -193,7 +169,7 @@
 .create-account3 {
   position: absolute;
   top: 12.16%;
-  left: calc(50% - 118.25px);
+  left: calc(63.5% - 118.25px);
   text-transform: capitalize;
 }
 .signup-button-child1,
@@ -228,7 +204,7 @@
 .create-account4 {
   position: absolute;
   top: 12.16%;
-  left: calc(50% - 118.25px);
+  left: calc(80% - 118.25px);
 }
 .signup-button3 {
   position: absolute;

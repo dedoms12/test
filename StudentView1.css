@@ -9,7 +9,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 1440px;
+  width: 1500px;
   height: 131px;
   object-fit: cover;
   opacity: 0.9;
@@ -67,9 +67,9 @@
 .student-view-child1 {
   position: absolute;
   top: calc(50% - 230px);
-  left: calc(50% - 496px);
+  left: calc(48.5% - 496px);
   background-color: var(--color-silver);
-  width: 993px;
+  width: 1010px;
   height: 604px;
 }
 .line-div {

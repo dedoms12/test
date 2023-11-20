@@ -9,7 +9,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 1440px;
+  width: 1500px;
   height: 131px;
   object-fit: cover;
   opacity: 0.9;
@@ -60,6 +60,7 @@
   height: 90px;
   object-fit: cover;
 }
+
 .user-icon5 {
   position: absolute;
   top: 39px;
@@ -68,32 +69,44 @@
   height: 54px;
   object-fit: cover;
 }
+.user-icon6 {
+  position: absolute;
+  top: 420px;
+  left: 261px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
 .student-view-child12 {
   position: absolute;
   top: calc(50% - 230px);
-  left: calc(50% - 496px);
+  left: calc(49% - 496px);
   background-color: var(--color-silver);
-  width: 993px;
+  width: 1010px;
   height: 604px;
 }
-.student-name5,
+
 .student-view-child13 {
   position: absolute;
-  top: 281px;
-  left: 546.9px;
-  width: 4.1px;
+  top: 281.9px;
+  left: 550.9px;
+  width: 2px;
   height: 605px;
+  background-color: black;
 }
+
 .student-name5 {
-  top: 634px;
-  left: 271px;
+  position: absolute;
+  top: 690.9px;
+  left: 275.9px;
   font-size: var(--font-size-16xl);
   letter-spacing: -0.33px;
   font-weight: 500;
   text-align: left;
   display: inline-block;
   width: 235px;
-  height: 59px;
+  height: 50px;
+  
 }
 .student-view-child14,
 .student-view-child15 {
@@ -181,7 +194,7 @@
 }
 .logout {
   top: 789px;
-  left: 984px;
+  left: 980px;
   color: var(--color-white);
   width: 155px;
   height: 49px;
