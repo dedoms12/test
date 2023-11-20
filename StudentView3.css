@@ -1,0 +1,133 @@
+.student-view-child7 {
+  position: absolute;
+  top: 42px;
+  left: 1251px;
+  width: 112px;
+  height: 110px;
+}
+.untitled-design-23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 131px;
+  object-fit: cover;
+  opacity: 0.9;
+}
+.student-name3 {
+  top: 48px;
+  left: 1044px;
+}
+.browse3,
+.home3,
+.student-name3 {
+  position: absolute;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+}
+.home3 {
+  top: calc(50% - 17px);
+  left: calc(50% - 194px);
+}
+.browse3 {
+  top: 28px;
+  left: 208px;
+}
+.frame-div {
+  position: absolute;
+  top: 20px;
+  left: 115px;
+  width: 582px;
+  height: 90px;
+  overflow: hidden;
+}
+.reading-list3 {
+  position: absolute;
+  top: 48px;
+  left: 451px;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+}
+.black-grey-simple-library-logo4 {
+  position: absolute;
+  top: calc(50% - 492px);
+  left: 32px;
+  width: 131px;
+  height: 90px;
+  object-fit: cover;
+}
+.user-icon4 {
+  position: absolute;
+  top: 39px;
+  left: 1245px;
+  width: 77px;
+  height: 54px;
+  object-fit: cover;
+}
+.student-view-child8 {
+  position: absolute;
+  top: calc(50% - 230px);
+  left: calc(50% - 496px);
+  background-color: var(--color-silver);
+  width: 993px;
+  height: 604px;
+}
+.student-view-child9 {
+  position: absolute;
+  top: 358.5px;
+  left: 223.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 994px;
+  height: 1px;
+}
+.my-favorite,
+.star-icon {
+  position: absolute;
+  top: 300px;
+}
+.my-favorite {
+  left: 244px;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+  display: inline-block;
+  width: 163px;
+  height: 51px;
+}
+.star-icon {
+  left: 410.2px;
+  width: 51px;
+  height: 35px;
+}
+.student-view-child10 {
+  position: absolute;
+  top: 815px;
+  left: 1044px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 153px;
+  height: 50px;
+}
+.back3 {
+  position: absolute;
+  top: 825px;
+  left: 1069px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: -0.33px;
+  font-weight: 500;
+  display: inline-block;
+  width: 103px;
+  height: 40px;
+  opacity: 0.5;
+}
+.student-view3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

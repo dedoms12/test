@@ -1,0 +1,143 @@
+.student-view-child20 {
+  position: absolute;
+  top: 42px;
+  left: 1251px;
+  width: 112px;
+  height: 110px;
+}
+.untitled-design-25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 131px;
+  object-fit: cover;
+  opacity: 0.9;
+}
+.student-name6 {
+  top: 48px;
+  left: 1044px;
+}
+.browse5,
+.home5,
+.student-name6 {
+  position: absolute;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+}
+.home5 {
+  top: calc(50% - 17px);
+  left: calc(50% - 194px);
+}
+.browse5 {
+  top: 28px;
+  left: 208px;
+}
+.home-parent2 {
+  position: absolute;
+  top: 20px;
+  left: 115px;
+  width: 582px;
+  height: 90px;
+  overflow: hidden;
+}
+.reading-list5 {
+  position: absolute;
+  top: 48px;
+  left: 451px;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+}
+.black-grey-simple-library-logo6 {
+  position: absolute;
+  top: calc(50% - 492px);
+  left: 32px;
+  width: 131px;
+  height: 90px;
+  object-fit: cover;
+}
+.user-icon6 {
+  position: absolute;
+  top: 39px;
+  left: 1245px;
+  width: 77px;
+  height: 54px;
+  object-fit: cover;
+}
+.student-view-child21 {
+  position: absolute;
+  top: 183px;
+  left: calc(50% - 600px);
+  border-radius: var(--br-31xl);
+  width: 483px;
+  height: 59px;
+}
+.library-system {
+  position: absolute;
+  top: 192px;
+  left: calc(50% - 673px);
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.33px;
+  font-weight: 500;
+  display: inline-block;
+  width: 451px;
+  height: 42px;
+  opacity: 0.5;
+}
+.close-icon,
+.screenshot-2023-11-13-190503-1 {
+  position: absolute;
+  top: 195px;
+  left: 546px;
+  width: 29px;
+  height: 35px;
+  object-fit: cover;
+}
+.screenshot-2023-11-13-190503-1 {
+  top: 287px;
+  left: 62px;
+  width: 1140px;
+  height: 704px;
+}
+.student-view-child22 {
+  position: absolute;
+  top: 255px;
+  left: 126px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 173px;
+  height: 29px;
+}
+.genre,
+.sort-down-icon {
+  position: absolute;
+  top: 260px;
+}
+.genre {
+  left: 97px;
+  font-size: 15px;
+  letter-spacing: -0.33px;
+  font-weight: 500;
+  display: inline-block;
+  width: 138px;
+  height: 15px;
+}
+.sort-down-icon {
+  left: 275px;
+  width: 8px;
+  height: 20px;
+  object-fit: cover;
+}
+.student-view5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,171 @@
+.untitled-design-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1425px;
+  height: 1033px;
+  object-fit: cover;
+}
+.world-of-wisdom {
+  color: #52ff00;
+}
+.a-world-of-container {
+  position: absolute;
+  top: 241px;
+  left: 82px;
+  font-size: 80px;
+  font-family: var(--font-rhodium-libre);
+  display: inline-block;
+  width: 626px;
+  height: 339px;
+}
+.homepage-child {
+  position: absolute;
+  top: 0;
+  left: 708px;
+  background-color: var(--color-white);
+  width: 732px;
+  height: 1033px;
+}
+.forgot-password {
+  position: absolute;
+  top: 682px;
+  left: 918px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.33px;
+  color: var(--color-mediumslateblue-100);
+  text-align: center;
+  display: inline-block;
+  width: 327px;
+  height: 38px;
+}
+.signup-button-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+}
+.create-account {
+  position: absolute;
+  height: 281.41%;
+  top: -90.71%;
+  left: calc(50% - 118px);
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 396px;
+}
+.signup-button {
+  position: absolute;
+  top: 564px;
+  left: 801px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 542px;
+  height: 76.4px;
+  font-family: var(--font-roboto);
+}
+.create-account1 {
+  position: absolute;
+  height: 281.31%;
+  top: -90.71%;
+  left: calc(50% - 117.5px);
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 396px;
+}
+.signup-button1 {
+  position: absolute;
+  top: 802px;
+  left: 766px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 599px;
+  height: 84px;
+  font-family: var(--font-roboto);
+}
+.black-grey-simple-library-logo {
+  position: absolute;
+  top: 79px;
+  left: 888px;
+  width: 370px;
+  height: 210px;
+  object-fit: cover;
+}
+.login-into-vlflms {
+  position: absolute;
+  top: 266px;
+  left: 910px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 326px;
+  height: 47px;
+}
+.homepage-inner,
+.homepage-item {
+  position: absolute;
+  top: 356px;
+  left: 801px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 542px;
+  height: 79px;
+}
+.homepage-inner {
+  top: 456px;
+  left: 802px;
+}
+.secure-icon,
+.user-icon {
+  position: absolute;
+  top: 370px;
+  left: 811px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.secure-icon {
+  top: 470px;
+}
+.password,
+.username {
+  position: absolute;
+  top: 375px;
+  left: 883px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 237px;
+  height: 35px;
+  opacity: 0.5;
+}
+.password {
+  top: 477px;
+}
+.line-icon {
+  position: absolute;
+  top: 759px;
+  left: 774px;
+  width: 576px;
+  height: 3px;
+}
+.homepage {
+  text-decoration: none;
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto-slab);
+}
